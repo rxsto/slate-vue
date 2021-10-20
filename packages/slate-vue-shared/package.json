@@ -1,9 +1,9 @@
 {
-  "name": "slate-vue-shared",
+  "name": "@hydrabot/slate-vue-shared",
   "version": "0.2.0",
   "dependencies": {
     "is-hotkey": "^0.2.0",
-    "slate": "^0.60.2",
+    "slate": "^0.66.5",
     "vue": "^2.6.11"
   },
   "main": "./dist/index.cjs.js",
